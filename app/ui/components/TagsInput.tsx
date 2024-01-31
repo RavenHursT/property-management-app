@@ -1,8 +1,6 @@
 'use client'
 import React, {
   ChangeEvent,
-  MouseEventHandler,
-  KeyboardEvent,
   useState
 } from 'react'
 import {Input} from '@nextui-org/input'

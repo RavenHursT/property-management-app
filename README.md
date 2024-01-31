@@ -31,5 +31,5 @@ A few user stories to consider are shared below. Please note that you can make t
 -  I want to be able to describe the property in some level detail (don't worry about photos for now)
 -  I want to be able to add specific and multiple amenties to my property (eg: parking, hot tub, Wifi etc.) 
 -  I want to be able to add 1+ rooms to my property (eg: Living Room, Bedroom 1, etc.)
-2. As an Company agent - 
+2. As a The Company agent - 
 -  I want to be able to fetch and review a property listing
