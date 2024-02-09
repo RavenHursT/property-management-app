@@ -1,5 +1,5 @@
 # Welcome to my example Next.js app, w/ a Mongo/Mongoose integration, project
-This was my solution for a quick and dirty app that was required as a part of the interview process of a potential employer. It shows proficiency w/ modern React best practices, w/ the TailwindCSS-powered NextUI UI-toolkit, Next.js 14+ application structures, and a MongoDB integration using the Mongoose ODM library. 
+This was my solution for a quick and dirty app that was required as a part of the interview process of a potential employer. It shows proficiency w/ modern React best practices, w/ the TailwindCSS-powered NextUI UI-toolkit, Next.js 14+ application structures, and a MongoDB integration, via ReSTful API design, using the Mongoose ODM library. 
 
 *[Please Note] - The following was included in the original "take-home exercise" as requirements. Including spelling and grammar errors (w/ the name of The Company changed)*
 
